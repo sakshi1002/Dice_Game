@@ -1,0 +1,26 @@
+body {
+    background-color: #61b15a !important;
+}
+#main{
+    padding: 20px;
+}
+
+.container{
+padding: 30px;
+display: flex;
+flex-direction: row;
+align-items: center;
+justify-content: space-around;
+}
+
+h2{
+    text-align: center;
+}
+
+img{
+    width: 100px;
+    height: 100px;
+}
+#result{
+    color: #f9ed69;
+}
